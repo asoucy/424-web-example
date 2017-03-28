@@ -1,0 +1,6 @@
+#Copyright
+#GPL v3
+The GNU General Public License (GNU GPL or GPL) is a widely used
+free software licesne, which guarantess end users (individuals,
+organizations, commpanies) the freedoms to run, study, share(copy),
+and modify the software.
